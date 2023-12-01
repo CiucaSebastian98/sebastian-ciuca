@@ -1,5 +1,5 @@
 const data = {
-    title: "Comming Soon",
+    title: "Coming Soon",
     description: "Get ready for something extraordinary! We're on the verge of unleashing a game-changing experience that will redefine your live.",
     copyrightText: 'Copyright © 2023 | Developed by&nbsp;<a target="_blank" class="no-underline md:underline" href="https://github.com/baikaresandip">Sebastian Mihai Ciuca</a>',
     socialIconsHeading: "Follow Me 📣",
